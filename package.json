@@ -1,0 +1,13 @@
+{
+  "name": "yarn-completion-bug",
+  "version": "1.0.0",
+  "description": "Sample project to reproduce https://github.com/dsifford/yarn-completion/issues/19",
+  "main": "index.js",
+  "author": "Ivan Kornienko <ivan.s.kornienko@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test:something": "echo something",
+    "test:somemore": "echo somemore"
+  }
+}
